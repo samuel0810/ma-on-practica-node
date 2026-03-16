@@ -1,0 +1,26 @@
+{
+  "name": "ma-on-practica-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/app.js",
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel0810/ma-on-practica-node.git"
+  },
+  "keywords": [],
+  "author": "Samuel",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/samuel0810/ma-on-practica-node/issues"
+  },
+  "homepage": "https://github.com/samuel0810/ma-on-practica-node#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
